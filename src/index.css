@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif !important;
+  line-height: 30px;
+  /* background-color: rgb(106, 204, 209); */
+  background-image: url('assets/new.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.container{
+  width: 100% !important;
+  height: 100% !important;
+}
+.activeNav {
+  color: #555 !important;
+  background-color: rgb(106, 204, 209) !important;
+}
+.navbar {
+  background-color: rgba(5, 237, 255, 0.29);
+  border:0.2px;
+  font-weight: bold;
+}
